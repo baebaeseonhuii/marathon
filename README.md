@@ -1,7 +1,9 @@
-# marathon
+# marathon - Design
 marathon with dog event website
 This is basic simple side project.
-I used Figma, HTML, CSS, Bootstrap for this website
+I used Figma to create this event website
+[Marathon With Your Dog.pdf](https://github.com/baebaeseonhuii/marathon/files/12515979/Marathon.With.Your.Dog.pdf)
+
 
 ![readme1](https://github.com/baebaeseonhuii/marathon/assets/48781193/5eaa0218-9c57-49bf-9e36-42cc32bfdef4)
 Home screenshot

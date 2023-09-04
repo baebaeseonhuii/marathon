@@ -13,3 +13,42 @@
 #home {
     color: blue;
 }
+
+#registerButton {
+    background-color: #3563E9;
+    color: white;
+    border: 2px solid black;
+}
+
+.threeFeatures {
+    text-align: center;
+}
+
+.icons {
+    display: inline-block;
+    padding: 20px;
+    border-radius: 50%;
+    background-color: #EFF3FD;
+}
+
+.reviewDog {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+
+.reviewDog img {
+    border-radius: 50%;
+}
+
+.reviewLabel {
+    padding-top: 200px;
+    color: black;
+}
+
+
+
+.btnPN {
+    background-color: #F5F5F5;
+    color: black;
+}

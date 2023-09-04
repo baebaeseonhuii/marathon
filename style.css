@@ -1,0 +1,15 @@
+.logoButton {
+    width: 200px;
+    border: 1px solid blue;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+
+.navbarRight {
+    float: right;
+    margin-right: 50px;
+}
+
+#home {
+    color: blue;
+}

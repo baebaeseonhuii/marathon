@@ -32,7 +32,7 @@
 }
 
 .reviewDog {
-    width: 300px;
+    width: 450px;
     height: 300px;
     margin: auto;
 }
@@ -42,13 +42,30 @@
 }
 
 .reviewLabel {
-    padding-top: 200px;
-    color: black;
+    padding-top: 150px;
+    
+    
 }
-
-
 
 .btnPN {
     background-color: #F5F5F5;
     color: black;
+}
+
+.sponsors {
+    text-align: center;
+    padding-top: 50px;
+}
+.sponsors h1 {
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+.sponsorsImages img {
+    width: 300px;
+
+}
+
+.sponsorsImages > .forthImage {
+    padding-left: 30px;
 }

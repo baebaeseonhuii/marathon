@@ -1,4 +1,6 @@
 # marathon - Design
+https://baebaeseonhuii.github.io/marathon/home
+
 marathon with dog event website
 This is basic simple side project.
 I used Figma to create this event website

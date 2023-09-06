@@ -69,3 +69,24 @@
 .sponsorsImages > .forthImage {
     padding-left: 30px;
 }
+
+.footerUpper {
+    padding-bottom: 30px;
+}
+
+.footerLower {
+    padding-top: 30px;
+}
+
+.socialIcons {
+    float: right;
+}
+
+.ulBlock {
+    
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    top: 50%;
+    left: 25%;
+}

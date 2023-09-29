@@ -31,4 +31,6 @@ window.onclick = function(event) {
     }
 }
 
-
+function afterSubmit() {
+    alert("The form was submitted!");
+}
